@@ -1,4 +1,5 @@
 ### ⚒️ I'm currently working with
+### Full Stack Developer
 
 #### Languages
 
@@ -7,8 +8,8 @@
 ![PHP](https://img.shields.io/badge/PHP-76448A?style=for-the-badge&logo=php&logoColor=whitee)
 
 #### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<!--
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)-->
 ![vue.js](https://img.shields.io/badge/VUE.JS-1BAD5B?style=for-the-badge&logo=VUE.JS&logoColor=white)
 ![Flutter](https://img.shields.io/badge/FLUTTER-3393FF?style=for-the-badge&logo=flutter&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-9633FF?style=for-the-badge&logo=BOOTSTRAP&logoColor=white)
