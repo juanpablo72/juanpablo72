@@ -5,7 +5,7 @@
 ### Full Stack Developer
 #### Languages
 
-![jp]()
+![jp](https://github.com/juanpablo72/juanpablo72/blob/master/jpGithub1.jpg?raw=true)
 
 # 🌟 Welcome to My Profile!
 
