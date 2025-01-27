@@ -5,6 +5,14 @@
 ### Full Stack Developer
 #### Languages
 
+![jp]()
+
+# 🌟 Welcome to My Profile!
+
+Hi there! I'm [Your Name], a passionate developer who loves creating innovative solutions. 🌍🚀
+
+---
+
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/PYTHON-007ACC?style=for-the-badge&logo=python&logoColor=yellow)
