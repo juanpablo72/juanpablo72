@@ -30,6 +30,7 @@ Hi Everyone 👋
 # 🌟 Welcome to My Profile!
 /Hi there! I'm [Your Name], a passionate developer who loves creating innovative solutions. 🌍🚀
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)-->
+#### Languages
 ![vue.js](https://img.shields.io/badge/VUE.JS-1BAD5B?style=for-the-badge&logo=VUE.JS&logoColor=white)
 ![Flutter](https://img.shields.io/badge/FLUTTER-3393FF?style=for-the-badge&logo=flutter&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-9633FF?style=for-the-badge&logo=BOOTSTRAP&logoColor=white)
