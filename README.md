@@ -1,4 +1,4 @@
-![My Image](https://drive.google.com/uc?export=view&id=1WaR3s9eVx-f8QFnQnWIfoSCM8uKqXpMk)
+
 
 
 ### ⚒️ I'm currently working with
