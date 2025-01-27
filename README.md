@@ -5,9 +5,9 @@ Hi Everyone 👋
 
 ![jp](https://github.com/juanpablo72/juanpablo72/blob/master/jpGithub1.jpg?raw=true)
 
-&nbsp;&nbsp; **I'm Juan Pablo**
--&nbsp;&nbsp; **🎓 Systems Engineer - UNEFA**
--&nbsp;&nbsp; **💻 Full-Stack Web Developer with almost 4 years of experience**
+# I'm Juan Pablo
+# - &nbsp; **🎓 Systems Engineer - UNEFA**
+# - &nbsp; **💻 Full-Stack Web Developer with almost 4 years of experience**
 
 
    
