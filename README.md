@@ -1,12 +1,19 @@
+Hi Everyone 👋
 
 
 
-### ⚒️ I'm currently working with
-### Full Stack Developer
-#### Languages
 
 ![jp](https://github.com/juanpablo72/juanpablo72/blob/master/jpGithub1.jpg?raw=true)
 
+I'm Juan Pablo
+   🎓 Systems Engineer - UNEFA
+   💻 Full-Stack Web Developer with almost 4 years of experience
+
+
+   
+### ⚒️ I'm currently working with
+### Full Stack Developer
+#### Languages
 # 🌟 Welcome to My Profile!
 
 Hi there! I'm [Your Name], a passionate developer who loves creating innovative solutions. 🌍🚀
