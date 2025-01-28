@@ -7,7 +7,7 @@ Hi Everyone 👋
 
 ### I'm Juan Pablo, a passionate developer who loves creating innovative solutions. 🌍🚀
 ### - &nbsp; **🎓 Systems Engineer - UNEFA**
-### - &nbsp; **💻 Full-Stack Web Developer with almost 4 years of experience**
+### - &nbsp; **💻 Full-Stack Web Developer with  4 years of experience**
 
 
    
